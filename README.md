@@ -104,7 +104,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<a href="2024Mar24_Sakura/20240324_001.JPG" data-lightbox="abc"><img src="2024Mar24_Sakura/20240324_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Mar24_Sakura/20240324_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2024Mar24_Sakura/20240324_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="2024Mar24_Sakura/20240324_002.JPG" data-lightbox="abc"><img src="2024Mar24_Sakura/20240324_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="2024Mar24_Sakura/20240324_003.JPG" data-lightbox="abc"><img src="2024Mar24_Sakura/20240324_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="2024Mar24_Sakura/20240324_004.JPG" data-lightbox="abc"><img src="2024Mar24_Sakura/20240324_004.JPG" alt="サンプル画像" width="900" /></a>
